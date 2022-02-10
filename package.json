@@ -2,7 +2,7 @@
   "name": "morney-1",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://buranxiangsi.github.io/morney-1-website/",
+  "homepage": "https://buranxiangsi.github.io/xiaoshi-web/",
   "dependencies": {
     "@babel/core": "7.12.3",
     "@pmmmwh/react-refresh-webpack-plugin": "0.4.3",
